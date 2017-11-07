@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnAgregar" type="id">agregar</item>
+    <item name="listView" type="id">listView</item>
+    <item name="lblNumero" type="id">numero</item>
+    <item name="imageView" type="id">imageView</item>
+    <item name="lblNombre" type="id">lblnombre</item>
+    <item name="Numero" type="id">numero</item>
+    <item name="set_picture" type="id" />
+    <item name="picture" type="id">string</item>
+    <item name="img" type="id" />
+    <item name="imge" type="id">string</item>
+</resources>
